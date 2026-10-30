@@ -1,0 +1,12 @@
+# Python backend files and machine learning weights
+legal_judgement_system/requirements.txt
+legal_judgement_system/services/
+legal_judgement_system/packages/
+legal_judgement_system/scripts/
+legal_judgement_system/tests/
+legal_judgement_system/data/
+legal_judgement_system/*.py
+legal_judgement_system/*.db
+legal_judgement_system/Dockerfile*
+legal_judgement_system/docker-compose.yml
+*.md

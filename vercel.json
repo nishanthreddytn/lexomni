@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "cd legal_judgement_system && npm install --legacy-peer-deps",
+  "buildCommand": "cd legal_judgement_system && npm run build",
+  "outputDirectory": "legal_judgement_system/dist",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
