@@ -6,7 +6,13 @@ LexOmni is a unified workstation for Indian courts and law firms. It combines th
 2. **Cognitive evidence and research tools**: OCR of scanned court records, cross-document contradiction detection, IPC to BNS statute bridging, precedent citation graphs, custody and default-bail clocks.
 3. **Judicial bench suite**: pre-hearing bench memos, order-sheet drafting, live courtroom transcription, delay diagnostics.
 
+---
 
+## Project background and credits
+
+LexOmni was built as a collaborative project with divya and hirvi . This repository was created on 30 October 2026 as my own copy so I could share the work and document it; its commit history therefore starts on that date and does not reflect when the project was originally developed.
+
+- **Original project authors:** [Nishanth Reddy, Divya S doddamani, Hirvi]
 ---
 
 ## Why it exists
