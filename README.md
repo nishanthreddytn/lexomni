@@ -6,7 +6,6 @@ LexOmni is a unified workstation for Indian courts and law firms. It combines th
 2. **Cognitive evidence and research tools**: OCR of scanned court records, cross-document contradiction detection, IPC to BNS statute bridging, precedent citation graphs, custody and default-bail clocks.
 3. **Judicial bench suite**: pre-hearing bench memos, order-sheet drafting, live courtroom transcription, delay diagnostics.
 
-> **Project status:** this repository currently holds the product specifications and deployment configuration. The application source (`legal_judgement_system/`, referenced by `vercel.json` and `.vercelignore`) is not part of this repo yet. Everything below describes the system as specified in the documents listed under [Repository contents](#repository-contents).
 
 ---
 
